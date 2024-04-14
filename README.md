@@ -44,3 +44,9 @@ This function initializes the datetime in the RTC to a value specified by a Tupl
 - The addresses of these registers are increasing monotonously from the start address of 00h.
 - The registers values are in BCD (Binary Coded Decimal)
 - Helper functions help to convert the integer vlues to BCD and vice versa for proper storage and display.
+
+
+
+### Author
+Adedayo Akinade
+akinadeadedayo1@gmail.com
